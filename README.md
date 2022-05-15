@@ -25,5 +25,6 @@ The app should be running on port: 5000 by default.
 * Data Sorting
   
 **App Requirements**
-![alt text](https://github.com/[mdhafizur]/[post-app-flask]/blob/main/request_requirements.png?raw=true)
-![alt text](https://github.com/[mdhafizur]/[post-app-flask]/blob/main/response_requirements.png?raw=true)
+![Request Requirenets](https://github.com/mdhafizur/blog-posts-flask-api/blob/main/images/request_requirements.png?raw=true)
+
+![Response Example](https://github.com/mdhafizur/blog-posts-flask-api/blob/main/images/response_requirements.png?raw=true)
